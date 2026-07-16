@@ -1,6 +1,4 @@
 use p1_retail_db;
-select * from retail_sales;
-Truncate table retail_sales;
 
 select * from retail_sales
 limit 20;
